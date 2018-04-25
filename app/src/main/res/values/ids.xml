@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewMain" type="id" />
+    <item name="textViewSub" type="id" />
+    <item name="linearLayoutFiliaalNamen" type="id" />
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/cardview_default_elevation"
+    android:layout_marginRight="@dimen/cardview_default_elevation"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/textViewTaken"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:padding="1dp"
+        android:textSize="@dimen/activity_vertical_margin"
+        android:text="@string/element_text" />
+</FrameLayout>
+
